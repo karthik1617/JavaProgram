@@ -1,4 +1,4 @@
-public class DisplayEvenNumbers 
+public class DisplayEvenNumbers
 {  
 public static void main(String args[])   
 {  
